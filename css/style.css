@@ -5,6 +5,10 @@
    margin: auto;
 }
 
+.body {
+   height: 100%;
+   width: 100% ;
+}
 
 #astronaut {
    width: 50px;
